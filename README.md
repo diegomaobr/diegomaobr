@@ -1,5 +1,5 @@
 ### Hi there, welcome to my Git Hub 👋
-### My name is Diego Sanguanini and my nickname is diegomaobr
+### My name is Diego S. and my nickname is diegomaobr
 
 - 🔭 I’m currently working on in Bank of Brazil
 - 🌱 I’m currently learning programing and data science
