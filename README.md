@@ -46,7 +46,4 @@ A passionate tech enthusiast learning **Programming** and **Data Science**.
   <a href="https://www.instagram.com/dieguitomaozinha/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.twitch.tv/diegomaobr2" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
-  </a>
 </p>
